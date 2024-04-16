@@ -1,0 +1,12 @@
+{
+    "users":[
+        {
+            "name": "Squares",
+            "img": "./src/assets/squares.jpg"
+        },
+        {
+            "name": "Ikat",
+            "img": "./src/assets/Ikat.jpg"
+        }
+    ]
+}
